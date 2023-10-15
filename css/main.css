@@ -7,8 +7,7 @@ html {
 body {
   max-width: 1200px;
   min-height: 100vh;
-  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
-  font-weight: 300;
+  font-family: "Roboto", sans-serif; 
 }
 
 
@@ -24,7 +23,7 @@ body {
 
 .header-div lable {
 	font-size: 35px;
-	font-weight: bold;
+	font-weight: 900;
 	color: #0038b8;
 }
 
@@ -101,7 +100,7 @@ body {
 	border-radius: 5px;
   background: #e8f1ff;
 	font-size: 20px;
-  font-weight: bold;
+  font-weight: 500;
   transition: background ease 0.2s;
 	width: 30%;
 }
@@ -109,7 +108,7 @@ body {
 .tabs label p {
 	margin: 10px 0px 5px 0px;
 	font-size: 14px;
-	font-weight: normal;
+	font-weight: 300;
 	text-align: center;
 	color: #565656;
 }
