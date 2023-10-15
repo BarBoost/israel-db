@@ -5,7 +5,6 @@ body {
   min-height: 100vh;
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
   font-weight: 300;
-  line-height: 1.5;
 }
 
 
@@ -94,18 +93,21 @@ body {
 	align-items: center;
 	cursor: pointer;
 	padding: 10px;
-	margin: 10px;
-	border-radius: 10px;
+	margin: 10px 5px 0px 5px;
+	border-radius: 5px;
   background: #e8f1ff;
+	font-size: 20px;
   font-weight: bold;
   transition: background ease 0.2s;
-	width: 29%;
+	width: 30%;
 }
 
 .tabs label p {
-	font-size: 15px;
+	margin: 10px 0px 5px 0px;
+	font-size: 14px;
 	font-weight: normal;
 	text-align: center;
+	color: #565656;
 }
 
 .tabs .tab {
