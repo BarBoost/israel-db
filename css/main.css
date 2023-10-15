@@ -1,5 +1,5 @@
 /**
- * Generic Styling
+ * Global Styling
 */
 html {
   margin: 0 auto;
@@ -102,6 +102,7 @@ body {
   background: #e8f1ff;
 	font-size: 20px;
   font-weight: 500;
+	text-align: center;
   transition: background ease 0.2s;
 	width: 30%;
 }
