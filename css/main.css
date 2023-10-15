@@ -1,9 +1,11 @@
 /**
  * Generic Styling
 */
-body {
+html {
   margin: 0 auto;
-  max-width: 1200px;
+	max-width: 1200px;
+}
+body {
   min-height: 100vh;
   font-family: "Roboto", sans-serif; 
 }
