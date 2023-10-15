@@ -1,6 +1,10 @@
 /**
  * Generic Styling
 */
+html {
+  margin: 0 auto;
+  max-width: 1200px;
+}
 body {
   min-height: 100vh;
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
