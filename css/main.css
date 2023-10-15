@@ -1,9 +1,6 @@
 /**
  * Generic Styling
 */
-html {
-  margin: 0 auto;
-}
 body {
   max-width: 1200px;
   min-height: 100vh;
