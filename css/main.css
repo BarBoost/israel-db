@@ -82,6 +82,11 @@ body {
 /**
  * iFrame Loader
  */
+
+.hidden {
+    display: none;
+}
+
 #loader {
     border: 12px solid #f3f3f3;
     border-radius: 50%;
