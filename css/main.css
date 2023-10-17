@@ -177,3 +177,17 @@ body {
     margin-top: 0.2rem;
   }
 }
+
+.important-note-report {
+	background-color: #ffd4e0;
+	padding: 1px 10px 1px 10px;
+	margin-bottom: 20px;
+	border-radius: 5px;
+}
+
+.important-note-report p {
+	line-height: 1.2em;
+	font-size: 15px;
+	font-weight: 300;
+	
+}
