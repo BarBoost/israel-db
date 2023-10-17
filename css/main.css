@@ -191,3 +191,17 @@ body {
 	font-weight: 300;
 	
 }
+
+.important-note-share {
+	background-color: #cff5d1;
+	padding: 1px 10px 1px 10px;
+	margin-bottom: 20px;
+	border-radius: 5px;
+}
+
+.important-note-share p, ul {
+	line-height: 1.2em;
+	font-size: 15px;
+	font-weight: 300;
+	
+}
