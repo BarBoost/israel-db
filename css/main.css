@@ -96,7 +96,7 @@ body {
     animation: spin 1s linear infinite;
 }
 
-.loader-center {
+.loader-container {
   display: flex;
   align-items: center;
   justify-content: center;
