@@ -73,9 +73,6 @@ body {
 
 .dropdown:hover .dropbtn {
   background-color: #053096;
-}
-
-.tabs-9335-tab-active {
   background-color: #c7dcff;
 }
 
@@ -202,7 +199,7 @@ body {
 }
 
 .important-note-share p, ul {
-	line-height: 1.2em;
+	line-height: 1em;
 	font-size: 15px;
 	font-weight: 300;
 }
@@ -217,6 +214,6 @@ body {
 
 .database-info p, ul {
 	line-height: 1.6em;
-	font-size: 15px;
+	font-size: 14px;
 	font-weight: 300;
 }
